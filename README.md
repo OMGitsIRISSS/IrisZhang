@@ -4,14 +4,20 @@ Undergraduate student at Zhongnan University of Economics and Law, pursuing a do
 
 Interested in business analytics, AI strategy, platform economy, e-commerce operations, and data-driven decision-making. My experience combines financial due diligence, industry research, user insight, AI-assisted product selection, and business analysis.
 
-## Featured Project
+## Featured Projects
 
-### AI-assisted Product Selection Analysis for E-commerce Scenario
-
-This project builds a product scoring framework for a simulated 1688 e-commerce product selection scenario. It evaluates products based on sales volume, repurchase rate, gross margin, fulfillment efficiency, rating, return rate, and user scenario fit.
+### AI-assisted Product Selection Analysis
 
 Repository: [ProductSelectionAnalysis](https://github.com/OMGitsIRISSS/ProductSelectionAnalysis)
 
+This project builds a product scoring framework for a simulated 1688 e-commerce product selection scenario. It evaluates products based on sales volume, repurchase rate, gross margin, fulfillment efficiency, rating, return rate, and user scenario fit.
+
+Key highlights:
+- Structured product-level data into analyzable fields
+- Built a weighted scoring model for product ranking
+- Identified high-potential products for campus-oriented e-commerce campaigns
+- Translated data findings into business recommendations
+- 
 ### Rural Cultural Capital and Livelihood Resilience: Multi-period DID Analysis
 
 Repository: [Rural-Cultural-Capital-Did](https://github.com/OMGitsIRISSS/Rural-Cultural-Capital-Did-)
@@ -25,18 +31,8 @@ Key highlights:
 - Conducted descriptive statistics, robustness checks, and empirical interpretation
 - Developed findings into an academic research paper
 
-Key methods:
-- Structured product-level data into analyzable fields
-- Built a weighted product scoring model
-- Ranked high-potential products for campus-oriented e-commerce campaigns
-- Translated data findings into business recommendations
 
-Tools:
-- Python
-- pandas
-- Excel-style business analysis
-- Basic SQL logic
-- Data visualization
+
 
 ## Relevant Experience
 
