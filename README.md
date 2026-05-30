@@ -12,6 +12,19 @@ This project builds a product scoring framework for a simulated 1688 e-commerce 
 
 Repository: [ProductSelectionAnalysis](https://github.com/OMGitsIRISSS/ProductSelectionAnalysis)
 
+### Rural Cultural Capital and Livelihood Resilience: Multi-period DID Analysis
+
+Repository: [Rural-Cultural-Capital-Did](https://github.com/OMGitsIRISSS/Rural-Cultural-Capital-Did-)
+
+This project examines the impact of rural cultural capital on household livelihood resilience using CFPS panel data and a multi-period Difference-in-Differences framework.
+
+Key highlights:
+- Cleaned and structured CFPS panel data across multiple years
+- Built livelihood resilience indicators and rural cultural capital-related variables
+- Applied multi-period DID analysis using Stata
+- Conducted descriptive statistics, robustness checks, and empirical interpretation
+- Developed findings into an academic research paper
+
 Key methods:
 - Structured product-level data into analyzable fields
 - Built a weighted product scoring model
